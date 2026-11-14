@@ -1,0 +1,15 @@
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\bin\Debug\net10.0\discountProgram.exe
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\bin\Debug\net10.0\discountProgram.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\bin\Debug\net10.0\discountProgram.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\bin\Debug\net10.0\discountProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\bin\Debug\net10.0\discountProgram.pdb
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\refint\discountProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.pdb
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discountProgram.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\ref\discountProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\PC ÖYKÜ\discountProgram\obj\Debug\net10.0\discount.E634C7CD.Up2Date
